@@ -14,7 +14,7 @@ const handler = async (m, {conn, usedPrefix, command}) => {
 *┃ 𝙿𝙾𝚁 𝚂𝙸 𝙶𝚄𝚂𝚃𝙰𝚂 𝙰𝙿𝙾𝚈𝙰𝚁 :𝟹*
 *┃*
 *┃ ➤ 𝙱𝙰𝙽𝙲𝙾: STP* 
-*┃ ➤ 𝙱𝙴𝙽𝙴𝙵𝙸𝙲𝙸𝙰𝚁𝙸𝙾: 𝐀𝐥𝐞𝐢𝐳𝐧* 
+*┃ ➤ 𝙱𝙴𝙽𝙴𝙵𝙸𝙲𝙸𝙰𝚁𝙸𝙾: 𝐁𝐨𝐧𝐧𝐢𝐞𝐁𝐨𝐭* 
 *┃ ➤ 𝙲𝙾𝙽𝙲𝙴𝙿𝚃𝙾: APOYO*  
 *┃ ➤ 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼: https://www.instagram.com/ale.izn_20/*
 *┃*

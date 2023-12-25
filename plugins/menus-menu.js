@@ -21,11 +21,11 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = ` 51992621691
+    const str = ` 𝐁𝐨𝐧𝐧𝐢𝐞𝐁𝐨𝐭
 
  ▢ *Hola,* ${taguser}
 
- ▢ *Owner:* Aleizn
+ ▢ *Owner:* 𝐁𝐨𝐧𝐧𝐢𝐞𝐁𝐨𝐭
  ▢ *Contacto:* Wa.me/+51992621691
  ▢ *Creador:* +51992621691
  ▢ *Vendedor:* +51992621691
